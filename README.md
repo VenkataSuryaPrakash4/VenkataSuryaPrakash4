@@ -1,7 +1,7 @@
 # 💫 About Me:
 Working at SAP Labs (External) - SAP CRM Standard Development-Support Team | SAP S/4HANA ABAP Consultant | BDOC |Restful Application Programming (RAP) | AMDP | CDS |OData | CRM Data Exchange | Web Dynpro | OOABAP | RICEF<br>
 
-I am an SAP CRM Standard Development Support professional at SAP LABS Ind. (External) specializing in managing and resolving customer incidents using the ServiceNow Incident Management tool. I work effectively within a dynamic team supporting the CRM One Order Framework, CRM Data Exchange, and CRM Billing processes that streamline and enhance customer interactions and operational data flow.<br><br> 
+I am an SAP CRM Standard Development Support professional at SAP LABS Ind. (External) specializing in managing and resolving customer incidents using the ServiceNow Incident Management tool. I work effectively within a dynamic team supporting the CRM One Order Framework, CRM Data Exchange, and CRM Billing processes that streamline and enhance customer interactions and operational data flow.<br> 
 * Skilled in handling end-to-end incident management in ServiceNow, ensuring timely resolution and optimal customer satisfaction.<br>
 * Experienced with the One Order Framework, focusing on integrating and simplifying complex business processes across multiple SAP modules.<br>
 * Strong troubleshooting knowledge in SAP CRM Data Exchange, facilitating seamless and secure data communication between SAP CRM and external systems.<br>
