@@ -13,7 +13,9 @@ I am good in supporting and enhancing a range of critical SAP components, includ
 * Component Specialization: Provide best support and troubleshooting for SAP CRM transactional management, business partner master data, interface frameworks, service order processing, S/4HANA quote and service functionality, and integration scenarios.<br>
 * Incident Management: Effectively resolve customer incidents and issues through ServiceNow, ensuring minimal business disruption and high-quality resolution documentation.<br>
 * Process Optimization: Analyze business processes within the One Order Framework and CRM Data Exchange, driving continuous improvements and seamless workflow integration.<br>
-* Technical Troubleshooting: Identify root causes, implement robust solutions, and collaborate with cross-functional teams to maintain optimal system performance.<br><br>• I leverage my extensive SAP product knowledge and customer-centric approach to solve complex challenges and enable business success.<br><br>
+* Technical Troubleshooting: Identify root causes, implement robust solutions, and collaborate with cross-functional teams to maintain optimal system performance.<br><br>
+
+I leverage my extensive SAP product knowledge and customer-centric approach to solve complex challenges and enable business success.<br><br>
 * Known for adaptability and flexibility—capable of independently solving complex problems or effectively collaborating to resolve cross-functional challenges.<br>
 * Adept at balancing self-driven tasks with collaborative projects.
 
