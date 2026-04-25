@@ -3,7 +3,7 @@ Working at SAP Labs (External) - SAP CRM Standard Development-Support Team | SAP
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/surya-prakash-p-v-424982260) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/surya-prakash-p-v-424982260/) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=VenkataSuryaPrakash4&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=VenkataSuryaPrakash4&theme=graywhite&hide_border=false)<br/>
