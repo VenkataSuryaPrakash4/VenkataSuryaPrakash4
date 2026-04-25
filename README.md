@@ -8,6 +8,7 @@ I am an SAP CRM Standard Development Support professional at SAP LABS Ind. (Exte
 * Strong troubleshooting and support skills, ensuring continuous smooth operations of SAP CRM and order management workflows.<br>
 * Collaborate closely with cross-functional teams to analyze issues, implement fixes, and contribute to process improvements.<br>
 * Committed to maintaining high service quality, documenting solutions clearly, and adhering to SAP.<br><br>
+
 I am good in supporting and enhancing a range of critical SAP components, including CRM-BTX-COM, CRM-MD-BP, CRM-MD-BP-IF, CRM-BTX-SVO, CRM-S4-SVO-QUT, CRM-S4-SVO-SRV, CRM-S4-MD-BP, and CRM-MD-BP-IF-GRH.<br><br>
 * Component Specialization: Provide best support and troubleshooting for SAP CRM transactional management, business partner master data, interface frameworks, service order processing, S/4HANA quote and service functionality, and integration scenarios.<br>
 * Incident Management: Effectively resolve customer incidents and issues through ServiceNow, ensuring minimal business disruption and high-quality resolution documentation.<br>
